@@ -1,0 +1,72 @@
+Bài toán
+
+4 rubric :
+1. TR – Task Response (Task Achievement)
+Ý nghĩa: Xem thí sinh có trả lời đúng yêu cầu đề hay không.
+Tiêu chí chính:
+
+- Có quan điểm rõ ràng xuyên suốt.
+- Lập luận có luận điểm + lý do + ví dụ.
+- Phát triển đủ ý, không quá ngắn.
+- Không lạc đề, không trả lời chung chung.
+
+Band điểm xây dựng:
+
+Band 1-4: Gần như không trả lời đề; ý rời rạc, thiếu phát triển; thường lạc đề hoặc quá ngắn.
+Band 4.5-5.5: Có trả lời một phần, nhưng phát triển hạn chế; ý chưa rõ, thiếu dẫn chứng.
+Band 6-7.5: Trả lời đầy đủ yêu cầu đề; quan điểm rõ ràng, có lý do và ví dụ; đôi chỗ chưa toàn diện hoặc chưa sâu.
+Band 8-9: Hoàn toàn đáp ứng đề; ý phong phú, phát triển logic, có ví dụ/giải thích sâu sắc; quan điểm xuyên suốt.
+
+2. CC – Coherence and Cohesion
+Ý nghĩa: Độ mạch lạc và liên kết trong bài viết.
+
+Tiêu chí chính: 
+
+- Bố cục rõ ràng (mở–thân–kết, có đoạn riêng).
+- Ý được sắp xếp hợp lý, không rời rạc.
+- Sử dụng từ nối, cohesive devices (however, moreover, in contrast…) đúng và đa dạng.
+- Không lạm dụng hoặc lặp từ nối.
+
+Band điểm xây dựng:
+Band 1-4: Hầu như không mạch lạc; ý rời rạc; thiếu từ nối hoặc dùng sai; khó theo dõi.
+Band 4.5-5.5: Có bố cục cơ bản nhưng liên kết yếu; dùng từ nối đơn giản, đôi khi lặp lại hoặc gượng ép.
+Band 6-7.5: Bố cục rõ ràng, hợp lý; có đoạn mở–thân–kết; dùng cohesive devices phù hợp, đôi lúc lặp hoặc thiếu tự nhiên.
+Band 8-9: Mạch lạc tự nhiên; bố cục logic, chuyển đoạn linh hoạt; cohesive devices phong phú, dùng linh hoạt, không gượng ép.
+
+3. LR – Lexical Resource
+Ý nghĩa: Vốn từ vựng và cách dùng từ.
+
+Tiêu chí chính:
+
+- Từ vựng đa dạng, chính xác, phù hợp với ngữ cảnh.
+- Dùng được collocations, từ học thuật.
+- Ít lặp từ, biết dùng paraphrase.
+- Hạn chế lỗi từ vựng (dùng sai từ, sai collocation).
+
+Band điểm xây dựng:
+Band 1-4: Vốn từ rất hạn chế; nhiều lỗi dùng từ; khó diễn đạt ý; lặp từ.
+Band 4.5-5.5: Từ vựng đủ để truyền đạt nhưng hạn chế; lặp lại nhiều; có lỗi gây hiểu sai.
+Band 6-7.5: Vốn từ khá đa dạng; dùng được collocations, paraphrase; thỉnh thoảng sai hoặc chưa chính xác.
+Band 8-9: Vốn từ rất rộng, tự nhiên, chính xác; collocations và academic vocab phong phú; hiếm lỗi.
+
+4. GR – Grammatical Range and Accuracy
+Ý nghĩa: Ngữ pháp (cấu trúc + độ chính xác).
+
+Tiêu chí chính:
+
+- Đa dạng cấu trúc (câu đơn, ghép, phức, mệnh đề quan hệ, điều kiện…).
+- Ít lỗi ngữ pháp và chấm câu.
+- Có dùng cấu trúc phức tạp, không chỉ lặp câu đơn giản.
+
+Band điểm xây dựng: 
+Band 1-4: Cấu trúc rất đơn giản (câu ngắn, lặp); nhiều lỗi nặng gây khó hiểu.
+Band 4.5-5.5: Có dùng nhiều cấu trúc hơn nhưng nhiều lỗi; câu đơn vẫn chiếm đa số.
+band 6-7.5: Có đa dạng cấu trúc (câu phức, ghép); lỗi không làm khó hiểu; ngữ pháp nhìn chung chính xác.
+Band 8-9: Rất đa dạng cấu trúc; dùng linh hoạt và chính xác; lỗi cực hiếm, không ảnh hưởng ý nghĩa.
+
+
+Overall: 
+- TR = có trả lời đề đúng, đủ, phát triển ý không.
+- CC = tổ chức, mạch lạc, liên kết ý.
+- LR = từ vựng đa dạng, phù hợp, chính xác.
+- GR = ngữ pháp đa dạng, chính xác, ít lỗi.
