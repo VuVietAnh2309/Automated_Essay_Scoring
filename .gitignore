@@ -1,1 +1,2 @@
-./models_save/
+# Ignore folder models_save
+models_save/
